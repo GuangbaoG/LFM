@@ -45,7 +45,11 @@ Depends: R (>= 3.5.0)
 BuildManual: yes
 
 Suggests: testthat (>= 3.0.0)
+
 Config/testthat/edition: 3
+
 Packaged: 2024-11-18 10:54:04 UTC; R7000
+
 Repository: CRAN
+
 Date/Publication: 2024-11-19 12:30:09 UTC
